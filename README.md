@@ -165,7 +165,7 @@ npm install --save-dev gh-pages
 
 2. Add to package.json:
 ```json
-"homepage": "https://yourusername.github.io/interactive-resume",
+"homepage": " https://github.com/Raj-Comet/Interactive-Resume",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
@@ -240,9 +240,10 @@ MIT License - Feel free to use this project for learning purposes.
 
 ## 👤 Author
 
-[Your Name]
-- GitHub: [@yourusername]
-- Email: your.email@example.com
+Sk Raj Ali
+- GitHub: https://github.com/Raj-Comet
+- Email: skrajali062003@gmail.com
+- Phone: +91-9635637725
 
 ## 🙏 Acknowledgments
 
