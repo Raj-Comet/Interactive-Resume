@@ -42,7 +42,7 @@ Password: pass123
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Raj-Comet/Interactive-Resume.git
+git clone https://github.com/Raj-Comet/Interactive-Resume
 cd interactive-resume
 ```
 
