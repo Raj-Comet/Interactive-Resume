@@ -2,9 +2,7 @@
 
 A responsive, interactive resume website built with React and Vite featuring authentication, filtering, and multiple view modes.
 
-## 🚀 Live Demo
-
-[Add your deployed URL here after deployment]
+## 🚀 Live Demo: https://interactive-resume-puce.vercel.app/
 
 ## 📋 Features
 
