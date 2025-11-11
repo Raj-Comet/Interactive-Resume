@@ -1,4 +1,4 @@
-# Interactive Resume - Frontend Take-Home Assignment
+# Interactive Resume
 
 A responsive, interactive resume website built with React and Vite featuring authentication, filtering, and multiple view modes.
 
