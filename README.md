@@ -42,7 +42,7 @@ Password: pass123
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Raj-Comet/Interactive-Resume.git
 cd interactive-resume
 ```
 
@@ -253,4 +253,4 @@ Sk Raj Ali
 
 ---
 
-**Note**: This is a demo project for a frontend internship take-home assignment. Not intended for production use.
+
